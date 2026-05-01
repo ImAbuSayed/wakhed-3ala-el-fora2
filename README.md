@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي في الليل أسرار
+> قلبي ينادي وكلّه نار
+> نور الغرام دليلي إليك
+> هذا الهوى مكتوب عليك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
